@@ -1,5 +1,5 @@
 # bikesharing
-Module 14: NY Citibike with Tableau
+Module 14: NY Citibike with Tableau [Tableau Public Link](https://public.tableau.com/app/profile/scott.macdonald6291/viz/Module14NYCitibikewithTableau-ChallengeFile/NYCitibikeAnalysis?publish=yes)
 
 ## Overview of Analysis
 
